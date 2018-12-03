@@ -1,0 +1,20 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"lib": [
+			"dom",
+			"es6",
+			"esnext",
+			"es2018",
+			"scripthost"
+		],
+		"module": "esnext",
+		"noImplicitReturns": true,
+		"outDir": "dist",
+		"sourceMap": false,
+		"target": "es5"
+	},
+	"exclude": [
+		"dist"
+	]
+}
